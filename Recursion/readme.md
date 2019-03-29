@@ -31,4 +31,4 @@ collectionOddValues([1, 2, 3, 4, 5])
 
 ## pure Recursion tips
 
-~ For arrays, use methods like slice spread operator and concat that make copies of arrays so you do not mutate them. 
+``` For arrays, use methods like slice spread operator and concat that make copies of arrays so you do not mutate them. ```
