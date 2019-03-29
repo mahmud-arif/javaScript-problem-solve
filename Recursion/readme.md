@@ -31,7 +31,11 @@ collectionOddValues([1, 2, 3, 4, 5])
 
 ## pure Recursion tips
 
+<<<<<<< HEAD
 ``` For arrays, use methods like slice spread operator and concat that make copies of arrays so you do not mutate them.
 Remember that strings are immutable so you will need to use slice, substr or substring to make copys of string
 to make copys of object use object.assign or spread operator 
 ``` 
+=======
+``` For arrays, use methods like slice spread operator and concat that make copies of arrays so you do not mutate them. ```
+>>>>>>> c3b1f10944eee098840f0aa219ccb528fe1973bf
