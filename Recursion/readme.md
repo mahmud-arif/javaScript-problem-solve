@@ -19,6 +19,7 @@ function outer(input){
 
  simulation of pure recurtion function collectionOddValues([1, 2, 3, 4, 5]); 
 
+```js
 collectionOddValues([1, 2, 3, 4, 5])
 [1].concat(collectionOddValues([2, 3, 4, 5]))
     [].concat(collectionOddValues([3, 4, 5]))
@@ -26,6 +27,7 @@ collectionOddValues([1, 2, 3, 4, 5])
          [].concat(collectionOddValues([5]))
             [5].concat(collectionOddValues([]))
                     []
+```
 
 ## pure Recursion tips
 
