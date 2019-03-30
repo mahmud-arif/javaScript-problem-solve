@@ -2,4 +2,4 @@
 > 
 > - A sorting algorithm where the largest values bubble up to the top 
 
-![bubble sort!](./assests/buble.png "buble sort")
+![bubble sort!](../../assests/buble.png "buble sort")
