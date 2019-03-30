@@ -9,11 +9,11 @@
 > <li>1: the function accepts a sorted array.</li>
 ><li> 2: create a left pointer at the start of the array, and a right pointer at the end of the array.</li>
 ><li> 3: while the left pointer comes before the right pointer </li>
-    <ol>
+    ><ol>
      ><li> create a pointer at the middle</li>
      ><li> if you find the value you want, return the index</li>
      ><li> if the value is too small, move the left pointer up</li>
      ><li> if the value is too large, move the right pointer down </li>
-     </ol>
+    ></ol>
 ><li>if you never find the value, return -1;</li> 
 ></ol>
