@@ -4,7 +4,7 @@
 
  ![insertion sort!](../../assets/insertion.png "insertion sort")
 
- # Insertion sort pesudo Code
+ # Insertion sort pseudo Code
 
  * start by picking second element in the array.
  * Now compare the second element with the one before if and swap if necessary.

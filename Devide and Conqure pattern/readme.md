@@ -11,5 +11,5 @@
    search([1, 2, 3, 4, 5, 6] 6) // 6
 
   ```
-  ...
+  ---
   ```  Binary search follow the divide and conqure rule ```

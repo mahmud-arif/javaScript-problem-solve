@@ -5,7 +5,7 @@
 ![bubble sort!](../../assets/bubble.png "buble sort")
 
 
-### Pesudo code 
+### Pseudo code 
 
 >
 > - start looping from with a variable called i the end of the array towards the beginning
