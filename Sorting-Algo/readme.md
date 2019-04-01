@@ -39,3 +39,8 @@ function numberCompare(num1, num2){
 
  ["steele", "colt" , "dataStructure" "algorithms"].sort(comparByLen); 
  ```
+ 
+
+ ## Time and space complexity of bubble, insertion and selection sort
+
+  ![Big-O!](.././assets/BigONotation.png "Big-O");
