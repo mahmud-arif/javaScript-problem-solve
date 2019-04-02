@@ -39,4 +39,8 @@
 ---
 ![merge sort!](../../assets/mergeSort.png "merge sort")
 
+## time and space complexity
+
+![merge sort!](../../assets/mergeSortTime.png "merge sort")
+
 
