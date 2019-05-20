@@ -111,6 +111,7 @@ class DoublyLinkedList {
     if (index === this.length) return this.pop(); 
     let removeNode = this.get(index); 
     removeNode.prev.next = removeNode.next; 
+    removeNode.next.prev = removeNode.prev; 
     removeNode.next = null; 
     removeNode.prev = null; 
     this.length--;
