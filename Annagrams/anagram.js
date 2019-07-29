@@ -22,4 +22,4 @@ function validAnagram(first, second) {
   return true; 
 }
 
-console.log(validAnagram('rat', 'car'));
+console.log(validAnagram("acb", "bca"));
