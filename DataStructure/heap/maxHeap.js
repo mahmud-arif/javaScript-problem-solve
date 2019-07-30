@@ -35,10 +35,10 @@ class Maxheap{
     let largest = index; 
     const length = this.heap.length; 
 
-    if (left <= length && this.heap[left] < this.heap[largest]) {
+    if (left <= length && this.heap[left] > this.heap[largest]) {
       largest = left; 
     }
-    if (right <= length && this.heap[right] < this.heap[largest]) {
+    if (right <= length && this.heap[right] > this.heap[largest]) {
       largest = right; 
     }
 
