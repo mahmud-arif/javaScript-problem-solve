@@ -1,4 +1,4 @@
 # About this Repo
 
-###  basic provlem, Data-Structure and Alogo implement in javaScript
+###  basic problem-solve, Data-Structure and Algo  in javaScript
 
