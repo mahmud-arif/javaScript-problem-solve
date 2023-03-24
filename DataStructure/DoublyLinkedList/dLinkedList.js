@@ -73,6 +73,7 @@ class DoublyLinkedList {
         current = current.next;
         count++
       }
+      return current; 
     } else {
       let count = this.length - 1;
       let current = this.tail;
@@ -80,8 +81,9 @@ class DoublyLinkedList {
         current = current.prev;
         count--;
       }
+      return current;
     }
-    return current;
+    
   }
   set(index, val) {
     let foundNode = this.get(index);
