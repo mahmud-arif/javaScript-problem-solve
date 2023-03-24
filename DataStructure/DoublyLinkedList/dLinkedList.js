@@ -87,7 +87,7 @@ class DoublyLinkedList {
     let foundNode = this.get(index);
     if (foundNode != null) {
       foundNode.val = val;
-      return false;
+      return true;
     }
     return false;
   }
